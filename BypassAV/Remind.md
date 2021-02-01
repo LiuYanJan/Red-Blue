@@ -3,7 +3,7 @@ _描述：前阵子可动态免杀绝大部分杀软，最近发现微软的Defe
 
 **可以的话，老哥们点个star吧 嘻嘻**
 
-![图片](https://user-images.githubusercontent.com/46078482/106402903-dea92180-6466-11eb-8a0a-99bc5e06ec4a.png)
+![图片](https://github.com/LiuYanJan/picture/blob/main/bypassav1.png)
 
 `1、Filehandle.py用于处理CS MSF 生成的shellcode文件 提取 shellcode`
 
