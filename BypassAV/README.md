@@ -15,7 +15,7 @@ _描述：前阵子可动态免杀绝大部分杀软，最近发现微软的Defe
 
 ![图片](https://github.com/LiuYanJan/picture/blob/main/bypassav.png)
 
-
+[具体使用步骤参考：](https://blog.csdn.net/qq_42342141/article/details/113499224)
 
 # 原理：
 python 反序列化免杀
