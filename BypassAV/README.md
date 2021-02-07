@@ -23,6 +23,8 @@ python 反序列化免杀
 # 环境：
 _测试时，我发现 python 3.7.0 这个版本兼容好，其他版本会有些问题，打包的程序可能无法正常使用！！！_
 
+**补充：最近发现有些表哥运行有问题，其实是python 版本的问题，python安装包我也上传了**
+
 	* python 3.7.0  
 	* py2exe库 【pyinstall指纹已经被很多杀软收集了】
 	* python3.7.0淘宝镜像-http://npm.taobao.org/mirrors/python/3.7.0/python-3.7.0.exe
